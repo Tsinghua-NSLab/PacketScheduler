@@ -1,0 +1,27 @@
+var max__cliques__v2_8m =
+[
+    [ "binP", "max__cliques__v2_8m.html#a22be353c0dbd2cbd65caa2712a382212", null ],
+    [ "bron_kerbosch", "max__cliques__v2_8m.html#a619deac610865f4041410566f8f7157a", null ],
+    [ "bron_kerbosch", "max__cliques__v2_8m.html#ac745aca349c8017f4dff36bedda19b88", null ],
+    [ "MC", "max__cliques__v2_8m.html#a7342b41f4fee6782688a2ac8aa84d83f", null ],
+    [ "Rnew", "max__cliques__v2_8m.html#a683002df4a723b25945e115a72672c15", null ],
+    [ "X", "max__cliques__v2_8m.html#aede164fb283a6f2ad48c40265ffea058", null ],
+    [ "A", "max__cliques__v2_8m.html#a3b98e2dffc6cb06a89dcb0d5c60a0206", null ],
+    [ "binP", "max__cliques__v2_8m.html#a900bfd43c0cc24d1b112a6751abb3cb5", null ],
+    [ "count", "max__cliques__v2_8m.html#a1922b2b993977ef7eb04382056a930bd", null ],
+    [ "function", "max__cliques__v2_8m.html#a25af46fcab21859bd7d847dc5d2807fb", null ],
+    [ "iclique", "max__cliques__v2_8m.html#a14f0a120848fdbbfcf862d516ed836dd", null ],
+    [ "MC", "max__cliques__v2_8m.html#ae47490d4199acfa62c17fde090cac73d", null ],
+    [ "Nu", "max__cliques__v2_8m.html#abc292391c505d99981cfde28e3742232", null ],
+    [ "P", "max__cliques__v2_8m.html#ad09f11cdfc2541ff76b6d39fdbaf0a4e", null ],
+    [ "pcounts", "max__cliques__v2_8m.html#a3810eca29993ee867d0fc137a3f792ea", null ],
+    [ "Pnew", "max__cliques__v2_8m.html#a2f237e1ce29ae1a096b4cf77209f4211", null ],
+    [ "ppivots", "max__cliques__v2_8m.html#aee129367be5ad7c2bc41360e2e6fad3d", null ],
+    [ "R", "max__cliques__v2_8m.html#adf3ec2e783e9b988fd998086c92f532e", null ],
+    [ "Rnew", "max__cliques__v2_8m.html#a591399a94573ab4eea6413271b29c145", null ],
+    [ "temp_u", "max__cliques__v2_8m.html#ad78eee06034f42dbd927e4cd2433397b", null ],
+    [ "u", "max__cliques__v2_8m.html#afb8d81ad40ad65b02a9efdd62ed84c97", null ],
+    [ "u_p", "max__cliques__v2_8m.html#a900e761e67d6f2f26a6761282ea8cc13", null ],
+    [ "X", "max__cliques__v2_8m.html#a58111a518b2a5bd7e779f2f0fae5342d", null ],
+    [ "Xnew", "max__cliques__v2_8m.html#a8e821c5088df21aceb1f382657893b2d", null ]
+];

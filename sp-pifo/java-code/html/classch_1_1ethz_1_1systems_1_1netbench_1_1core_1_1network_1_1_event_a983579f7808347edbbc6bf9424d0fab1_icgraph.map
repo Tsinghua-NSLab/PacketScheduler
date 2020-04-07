@@ -1,0 +1,8 @@
+<map id="ch.ethz.systems.netbench.core.network.Event.getTime" name="ch.ethz.systems.netbench.core.network.Event.getTime">
+<area shape="rect" id="node1" title=" " alt="" coords="322,131,581,169"/>
+<area shape="rect" id="node2" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1ext_1_1bare_1_1_bare_packet_resend_event.html#ab5972a5a4848b6e3f45c2a7850355250" title=" " alt="" coords="24,5,255,44"/>
+<area shape="rect" id="node3" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1simple_1_1_tcp_packet_resend_event.html#a199a9e7780002d6d545cdc71e62af429" title=" " alt="" coords="18,68,261,107"/>
+<area shape="rect" id="node4" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_packet_arrival_event.html#afb93fbc8524291eb6f0c5d62b95bd5bf" title=" " alt="" coords="10,131,269,169"/>
+<area shape="rect" id="node5" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1newreno_1_1_tcp_retransmission_time_out_event.html#a8fe3e0b2079123933de293f7307afab1" title=" " alt="" coords="5,193,274,232"/>
+<area shape="rect" id="node6" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_packet_dispatched_event.html#a32b8194ba7188b6f8dafcd2105fa83ac" title=" " alt="" coords="10,256,269,295"/>
+</map>

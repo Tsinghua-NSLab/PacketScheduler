@@ -1,0 +1,6 @@
+var classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_tail_drop_1_1_tail_drop_output_port_generator =
+[
+    [ "TailDropOutputPortGenerator", "classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_tail_drop_1_1_tail_drop_output_port_generator.html#a9cb46beffeb1f39295490d700d13b8b0", null ],
+    [ "generate", "classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_tail_drop_1_1_tail_drop_output_port_generator.html#a98320c006a38d05a236224aec774b403", null ],
+    [ "maxQueueSizeBytes", "classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_tail_drop_1_1_tail_drop_output_port_generator.html#a3473d45cbd15efe77a343f6dcf88258b", null ]
+];

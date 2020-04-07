@@ -1,0 +1,8 @@
+<map id="ch.ethz.systems.netbench.core.run.routing.RoutingPopulator" name="ch.ethz.systems.netbench.core.run.routing.RoutingPopulator">
+<area shape="rect" id="node1" title=" " alt="" coords="532,5,809,92"/>
+<area shape="rect" id="node2" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1ext_1_1ecmp_1_1_ecmp_switch_routing.html" title=" " alt="" coords="5,180,242,280"/>
+<area shape="rect" id="node3" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1ext_1_1ecmp_1_1_forwarder_switch_routing.html" title=" " alt="" coords="267,180,504,280"/>
+<area shape="rect" id="node4" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sourcerouting_1_1_ecmp_then_ksp_no_shortest_routing.html" title=" " alt="" coords="528,140,813,320"/>
+<area shape="rect" id="node5" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sourcerouting_1_1_ecmp_then_ksp_routing.html" title=" " alt="" coords="837,180,1122,280"/>
+<area shape="rect" id="node6" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sourcerouting_1_1_k_shortest_paths_switch_routing.html" title=" " alt="" coords="1147,140,1432,320"/>
+</map>

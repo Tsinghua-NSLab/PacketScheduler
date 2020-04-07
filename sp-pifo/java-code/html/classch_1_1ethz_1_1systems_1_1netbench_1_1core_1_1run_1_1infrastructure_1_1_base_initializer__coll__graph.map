@@ -1,0 +1,10 @@
+<map id="ch.ethz.systems.netbench.core.run.infrastructure.BaseInitializer" name="ch.ethz.systems.netbench.core.run.infrastructure.BaseInitializer">
+<area shape="rect" id="node1" title=" " alt="" coords="868,167,1181,333"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,12,350,99"/>
+<area shape="rect" id="node3" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1run_1_1infrastructure_1_1_network_device_generator.html" title=" " alt="" coords="374,5,688,105"/>
+<area shape="rect" id="node4" title=" " alt="" coords="711,12,844,99"/>
+<area shape="rect" id="node5" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1run_1_1infrastructure_1_1_link_generator.html" title=" " alt="" coords="868,12,1181,99"/>
+<area shape="rect" id="node6" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1run_1_1infrastructure_1_1_transport_layer_generator.html" title=" " alt="" coords="1205,12,1518,99"/>
+<area shape="rect" id="node7" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1run_1_1infrastructure_1_1_output_port_generator.html" title=" " alt="" coords="1542,12,1856,99"/>
+<area shape="rect" id="node8" title=" " alt="" coords="1880,12,2225,99"/>
+</map>

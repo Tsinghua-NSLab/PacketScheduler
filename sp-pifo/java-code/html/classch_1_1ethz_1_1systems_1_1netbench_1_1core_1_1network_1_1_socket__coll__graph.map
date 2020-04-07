@@ -1,0 +1,13 @@
+<map id="ch.ethz.systems.netbench.core.network.Socket" name="ch.ethz.systems.netbench.core.network.Socket">
+<area shape="rect" id="node1" title=" " alt="" coords="708,568,967,828"/>
+<area shape="rect" id="node2" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_transport_layer.html" title=" " alt="" coords="536,220,795,440"/>
+<area shape="rect" id="node5" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_network_device.html" title=" " alt="" coords="379,588,638,808"/>
+<area shape="rect" id="node3" title=" " alt="" coords="339,12,476,85"/>
+<area shape="rect" id="node4" title=" " alt="" coords="500,12,594,85"/>
+<area shape="rect" id="node7" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_intermediary.html" title=" " alt="" coords="379,889,638,1029"/>
+<area shape="rect" id="node6" title=" " alt="" coords="5,287,350,373"/>
+<area shape="rect" id="node8" title=" " alt="" coords="374,293,480,367"/>
+<area shape="rect" id="node9" title=" " alt="" coords="618,5,951,92"/>
+<area shape="rect" id="node10" title=" " alt="" coords="975,5,1309,92"/>
+<area shape="rect" id="node11" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1log_1_1_flow_logger.html" title=" " alt="" coords="820,153,1050,507"/>
+</map>

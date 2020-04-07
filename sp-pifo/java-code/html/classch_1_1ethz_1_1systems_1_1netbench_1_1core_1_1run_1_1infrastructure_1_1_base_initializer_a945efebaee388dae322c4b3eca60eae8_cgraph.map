@@ -1,0 +1,9 @@
+<map id="ch.ethz.systems.netbench.core.run.infrastructure.BaseInitializer.createEdge" name="ch.ethz.systems.netbench.core.run.infrastructure.BaseInitializer.createEdge">
+<area shape="rect" id="node1" title=" " alt="" coords="5,131,319,169"/>
+<area shape="rect" id="node2" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_network_device.html#ab18e97b1d7ba88941f9a11a3a32e30d4" title=" " alt="" coords="394,68,653,107"/>
+<area shape="rect" id="node6" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1run_1_1infrastructure_1_1_link_generator.html#a5fa1c9ea8c0b1cb416fc3a998c8c107d" title=" " alt="" coords="367,131,680,169"/>
+<area shape="rect" id="node7" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1run_1_1infrastructure_1_1_output_port_generator.html#af85657312764c297056e115b1739a89b" title=" " alt="" coords="367,193,680,232"/>
+<area shape="rect" id="node3" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_network_device.html#a8e8925a6a1070434d2ee36bef53d76e8" title=" " alt="" coords="728,5,987,44"/>
+<area shape="rect" id="node4" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_output_port.html#a877ac954b56dd49ba40b65a3492402d9" title=" " alt="" coords="728,68,987,107"/>
+<area shape="rect" id="node5" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_output_port.html#affe1aeb7aed9284dc04d7236b364210f" title=" " alt="" coords="728,131,987,169"/>
+</map>

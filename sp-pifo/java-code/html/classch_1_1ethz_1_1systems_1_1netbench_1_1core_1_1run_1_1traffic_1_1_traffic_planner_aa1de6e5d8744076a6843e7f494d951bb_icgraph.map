@@ -1,0 +1,8 @@
+<map id="ch.ethz.systems.netbench.core.run.traffic.TrafficPlanner.registerFlow" name="ch.ethz.systems.netbench.core.run.traffic.TrafficPlanner.registerFlow">
+<area shape="rect" id="node1" title=" " alt="" coords="643,100,911,139"/>
+<area shape="rect" id="node2" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1ext_1_1poissontraffic_1_1_from_string_arrival_planner.html#a6f68db46463ca562bbd1bf08cbc278f6" title=" " alt="" coords="312,5,595,44"/>
+<area shape="rect" id="node3" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1ext_1_1poissontraffic_1_1_poisson_arrival_planner.html#a89d218c168864a7ae501a26bc6ea1e62" title=" " alt="" coords="312,68,595,107"/>
+<area shape="rect" id="node4" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1ext_1_1trafficpair_1_1_traffic_pair_planner.html#ad1a1f76d1f2724922b7f3eabe8976a99" title=" " alt="" coords="324,131,583,169"/>
+<area shape="rect" id="node6" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1ext_1_1trafficpair_1_1_traffic_pair_planner.html#abaa6ce671c4f2e1597b51b9ef0ffec6c" title=" " alt="" coords="318,193,588,232"/>
+<area shape="rect" id="node5" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1ext_1_1trafficpair_1_1_traffic_pair_planner.html#ad0946229ecdb165dc5e047838ca550b8" title=" " alt="" coords="5,163,264,201"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="ch.ethz.systems.netbench.xpt.sourcerouting.SourceRoutingSwitchTest.testToString" name="ch.ethz.systems.netbench.xpt.sourcerouting.SourceRoutingSwitchTest.testToString">
+<area shape="rect" id="node1" title=" " alt="" coords="5,99,291,137"/>
+<area shape="rect" id="node2" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_network_device.html#ab18e97b1d7ba88941f9a11a3a32e30d4" title=" " alt="" coords="351,36,611,75"/>
+<area shape="rect" id="node6" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1testutility_1_1_test_topology_ports_construction.html#afdcb438fd3ddfab0c64f9017df619a24" title=" " alt="" coords="355,99,607,137"/>
+<area shape="rect" id="node7" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sourcerouting_1_1_source_routing_switch.html#a7563304436d91de788f8d2a5f62debde" title=" " alt="" coords="339,161,624,200"/>
+<area shape="rect" id="node3" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_network_device.html#a8e8925a6a1070434d2ee36bef53d76e8" title=" " alt="" coords="672,145,931,184"/>
+<area shape="rect" id="node4" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_output_port.html#a877ac954b56dd49ba40b65a3492402d9" title=" " alt="" coords="672,5,931,44"/>
+<area shape="rect" id="node5" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_output_port.html#affe1aeb7aed9284dc04d7236b364210f" title=" " alt="" coords="672,68,931,107"/>
+</map>

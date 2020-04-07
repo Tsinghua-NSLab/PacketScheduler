@@ -1,0 +1,15 @@
+<map id="ch.ethz.systems.netbench.ext.valiant.ValiantEcmpSwitchTest.setup" name="ch.ethz.systems.netbench.ext.valiant.ValiantEcmpSwitchTest.setup">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,248,264"/>
+<area shape="rect" id="node2" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_network_device.html#ab18e97b1d7ba88941f9a11a3a32e30d4" title=" " alt="" coords="301,68,560,107"/>
+<area shape="rect" id="node6" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1ext_1_1ecmp_1_1_ecmp_switch.html#ab0371ffed8b4a048ad43ac222bcb6143" title=" " alt="" coords="296,131,564,169"/>
+<area shape="rect" id="node7" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1_simulator.html#a79429c2cba847b3c516602378a2d9b59" title=" " alt="" coords="326,193,535,232"/>
+<area shape="rect" id="node8" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1testutility_1_1_test_topology_ports_construction.html#afdcb438fd3ddfab0c64f9017df619a24" title=" " alt="" coords="304,256,556,295"/>
+<area shape="rect" id="node9" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1config_1_1_n_b_properties.html#ac3e4e412ff8ca48183fb8d1621059fd4" title=" " alt="" coords="306,319,554,357"/>
+<area shape="rect" id="node13" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1_simulator.html#a5e7df9ed690db658239fdeed54b1e039" title=" " alt="" coords="326,381,535,420"/>
+<area shape="rect" id="node3" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_network_device.html#a8e8925a6a1070434d2ee36bef53d76e8" title=" " alt="" coords="612,5,872,44"/>
+<area shape="rect" id="node4" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_output_port.html#a877ac954b56dd49ba40b65a3492402d9" title=" " alt="" coords="612,68,872,107"/>
+<area shape="rect" id="node5" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_output_port.html#affe1aeb7aed9284dc04d7236b364210f" title=" " alt="" coords="612,131,872,169"/>
+<area shape="rect" id="node10" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1config_1_1_n_b_properties.html#a9f3883908693fce80f9f0c62cecc430b" title=" " alt="" coords="920,319,1168,357"/>
+<area shape="rect" id="node11" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1config_1_1_n_b_properties.html#a2686ec06666f85d61bd147f415757c30" title=" " alt="" coords="618,319,866,357"/>
+<area shape="rect" id="node12" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1config_1_1_n_b_properties.html#acfef54db011a54e2e14084ebb6428a23" title=" " alt="" coords="618,381,866,420"/>
+</map>

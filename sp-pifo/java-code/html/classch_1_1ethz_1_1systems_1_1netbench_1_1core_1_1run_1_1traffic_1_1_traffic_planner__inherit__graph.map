@@ -1,0 +1,6 @@
+<map id="ch.ethz.systems.netbench.core.run.traffic.TrafficPlanner" name="ch.ethz.systems.netbench.core.run.traffic.TrafficPlanner">
+<area shape="rect" id="node1" title=" " alt="" coords="319,5,588,132"/>
+<area shape="rect" id="node2" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1ext_1_1poissontraffic_1_1_from_string_arrival_planner.html" title=" " alt="" coords="5,307,288,407"/>
+<area shape="rect" id="node3" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1ext_1_1poissontraffic_1_1_poisson_arrival_planner.html" title=" " alt="" coords="312,180,595,533"/>
+<area shape="rect" id="node4" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1ext_1_1trafficpair_1_1_traffic_pair_planner.html" title=" " alt="" coords="619,240,877,473"/>
+</map>

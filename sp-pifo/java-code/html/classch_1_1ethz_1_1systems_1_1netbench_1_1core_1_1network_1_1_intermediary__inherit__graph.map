@@ -1,0 +1,9 @@
+<map id="ch.ethz.systems.netbench.core.network.Intermediary" name="ch.ethz.systems.netbench.core.network.Intermediary">
+<area shape="rect" id="node1" title=" " alt="" coords="150,5,409,145"/>
+<area shape="rect" id="node2" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1ext_1_1demo_1_1_demo_intermediary.html" title=" " alt="" coords="29,207,267,320"/>
+<area shape="rect" id="node3" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1ext_1_1flowlet_1_1_flowlet_intermediary.html" title=" " alt="" coords="291,193,533,333"/>
+<area shape="rect" id="node4" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1ext_1_1flowlet_1_1_fixed_gap_flowlet_intermediary.html" title=" " alt="" coords="157,388,400,488"/>
+<area shape="rect" id="node7" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1ext_1_1flowlet_1_1_identity_flowlet_intermediary.html" title=" " alt="" coords="424,381,666,495"/>
+<area shape="rect" id="node5" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1ext_1_1flowlet_1_1_uniform_flowlet_intermediary.html" title=" " alt="" coords="5,543,248,656"/>
+<area shape="rect" id="node6" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1asaf_1_1routing_1_1priority_1_1_priority_flowlet_intermediary.html" title=" " alt="" coords="272,543,589,656"/>
+</map>

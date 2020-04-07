@@ -1,0 +1,5 @@
+var classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1newreno_1_1newrenotcp_1_1_new_reno_tcp_transport_layer =
+[
+    [ "NewRenoTcpTransportLayer", "classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1newreno_1_1newrenotcp_1_1_new_reno_tcp_transport_layer.html#a13fe45e217c834e4503ba0621fb7d207", null ],
+    [ "createSocket", "classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1newreno_1_1newrenotcp_1_1_new_reno_tcp_transport_layer.html#a6a92b4bb9f9da169248c7e583e48842f", null ]
+];

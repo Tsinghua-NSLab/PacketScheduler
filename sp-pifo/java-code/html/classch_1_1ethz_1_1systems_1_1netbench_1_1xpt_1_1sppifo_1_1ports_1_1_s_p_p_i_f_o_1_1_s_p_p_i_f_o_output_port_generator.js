@@ -1,0 +1,8 @@
+var classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_s_p_p_i_f_o_1_1_s_p_p_i_f_o_output_port_generator =
+[
+    [ "SPPIFOOutputPortGenerator", "classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_s_p_p_i_f_o_1_1_s_p_p_i_f_o_output_port_generator.html#a4ecd9bc3cb2e017dccc4426d97dcff39", null ],
+    [ "generate", "classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_s_p_p_i_f_o_1_1_s_p_p_i_f_o_output_port_generator.html#a28757d9f5389f92ea1d012d4bd8ba2a0", null ],
+    [ "numberQueues", "classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_s_p_p_i_f_o_1_1_s_p_p_i_f_o_output_port_generator.html#a5189c6405e6ccf02ed2ac5899dc063fb", null ],
+    [ "sizePerQueuePackets", "classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_s_p_p_i_f_o_1_1_s_p_p_i_f_o_output_port_generator.html#a24b0376fa6ae96a90270fdf6e4802379", null ],
+    [ "stepSize", "classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_s_p_p_i_f_o_1_1_s_p_p_i_f_o_output_port_generator.html#a9105f354d567f1dc79f142fd28f1ff1e", null ]
+];

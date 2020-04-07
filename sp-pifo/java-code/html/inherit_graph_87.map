@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,44,159,69"/>
+<area shape="rect" id="node2" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_p_i_f_o_1_1_p_i_f_o_queue.html" title=" " alt="" coords="207,68,480,107"/>
+<area shape="rect" id="node3" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_p_i_f_o___w_f_q_1_1_w_f_q_p_i_f_o_queue.html" title=" " alt="" coords="207,5,480,44"/>
+<area shape="rect" id="node4" title=" " alt="" coords="51,200,113,225"/>
+<area shape="rect" id="node5" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_a_f_q_1_1_a_f_q_queue.html" title=" " alt="" coords="207,193,480,232"/>
+<area shape="rect" id="node6" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_greedy_1_1_greedy_queue.html" title=" " alt="" coords="207,256,480,295"/>
+<area shape="rect" id="node7" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_greedy_1_1_greedy_queue___advanced.html" title=" " alt="" coords="207,319,480,357"/>
+<area shape="rect" id="node8" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_s_p_p_i_f_o_1_1_s_p_p_i_f_o_queue.html" title=" " alt="" coords="207,381,480,420"/>
+<area shape="rect" id="node9" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_s_p_p_i_f_o___w_f_q_1_1_w_f_q_s_p_p_i_f_o_queue.html" title=" " alt="" coords="207,131,480,169"/>
+</map>

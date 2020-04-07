@@ -1,0 +1,5 @@
+<map id="ch.ethz.systems.netbench.xpt.sppifo.ports.PIFO_WFQ.WFQPIFOQueue.poll" name="ch.ethz.systems.netbench.xpt.sppifo.ports.PIFO_WFQ.WFQPIFOQueue.poll">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,279,44"/>
+<area shape="rect" id="node2" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_p_i_f_o___w_f_q_1_1_w_f_q_p_i_f_o_queue.html#a41dbcf7359c4ac142fe6af1c87b22300" title=" " alt="" coords="327,5,607,44"/>
+<area shape="rect" id="node3" href="$interfacech_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1tcpbase_1_1_priority_header.html#a48004edfd060958f68d141a5f1324008" title=" " alt="" coords="655,5,906,44"/>
+</map>

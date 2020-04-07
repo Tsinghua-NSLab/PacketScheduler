@@ -1,0 +1,11 @@
+<map id="ch.ethz.systems.netbench.xpt.voijslav_and_sppifo.ports.PriorityOutputPort.enqueue" name="ch.ethz.systems.netbench.xpt.voijslav_and_sppifo.ports.PriorityOutputPort.enqueue">
+<area shape="rect" id="node1" title=" " alt="" coords="5,131,298,169"/>
+<area shape="rect" id="node2" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_output_port.html#a26fd394da865e8ca6a97bddd85468320" title=" " alt="" coords="346,131,605,169"/>
+<area shape="rect" id="node3" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_link.html#a2ba2f5782307d3dd9804a60885e98a6c" title=" " alt="" coords="653,5,912,44"/>
+<area shape="rect" id="node4" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_packet.html#afb1e18f323c4af856c74890c52f9d46d" title=" " alt="" coords="653,68,912,107"/>
+<area shape="rect" id="node5" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1log_1_1_port_logger.html#a3373b4111e4fed10a0fc3787167af8cf" title=" " alt="" coords="668,131,898,169"/>
+<area shape="rect" id="node7" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1log_1_1_port_logger.html#a2adbb000a51fc2434b5306c9be298fd6" title=" " alt="" coords="668,193,898,232"/>
+<area shape="rect" id="node9" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1_simulator.html#a9dd411be17ce18c292b4674f394fb2cb" title=" " alt="" coords="678,256,887,295"/>
+<area shape="rect" id="node6" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1_simulator.html#ac273d00052a385d6dd7557dd97ee8de8" title=" " alt="" coords="960,135,1169,173"/>
+<area shape="rect" id="node8" href="$butterfly_8m.html#a50477d769c3b87cb725cd2299e721700" title=" " alt="" coords="1036,200,1094,225"/>
+</map>

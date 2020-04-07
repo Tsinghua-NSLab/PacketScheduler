@@ -1,0 +1,6 @@
+<map id="ch.ethz.systems.netbench.core.network.NetworkDevice.isServer" name="ch.ethz.systems.netbench.core.network.NetworkDevice.isServer">
+<area shape="rect" id="node1" title=" " alt="" coords="303,68,562,107"/>
+<area shape="rect" id="node2" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1ext_1_1basic_1_1_split_bandwidth_link_generator.html#ae1b215ec034ad1e2c177a1b1bdfed6db" title=" " alt="" coords="5,5,255,44"/>
+<area shape="rect" id="node3" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1log_1_1_port_logger.html#a0a4e6063f49ac04a0a3213ad4c2b9d2d" title=" " alt="" coords="15,68,245,107"/>
+<area shape="rect" id="node4" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1ext_1_1ecmp_1_1_forwarder_switch_test.html#a63a6426e2a70ad7c4c1d91ecbe3b9aec" title=" " alt="" coords="12,131,249,169"/>
+</map>

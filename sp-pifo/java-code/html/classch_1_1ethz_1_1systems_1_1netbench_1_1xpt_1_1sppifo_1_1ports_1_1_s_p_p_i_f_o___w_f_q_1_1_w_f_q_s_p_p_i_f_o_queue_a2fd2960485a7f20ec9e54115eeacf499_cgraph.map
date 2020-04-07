@@ -1,0 +1,7 @@
+<map id="ch.ethz.systems.netbench.xpt.sppifo.ports.SPPIFO_WFQ.WFQSPPIFOQueue.offer" name="ch.ethz.systems.netbench.xpt.sppifo.ports.SPPIFO_WFQ.WFQSPPIFOQueue.offer">
+<area shape="rect" id="node1" title=" " alt="" coords="5,68,279,107"/>
+<area shape="rect" id="node2" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_s_p_p_i_f_o___w_f_q_1_1_w_f_q_s_p_p_i_f_o_queue.html#a0aee5decc025f3fa77a4b3703bd58f6a" title=" " alt="" coords="327,36,645,75"/>
+<area shape="rect" id="node5" href="$interfacech_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1tcpbase_1_1_priority_header.html#a4f192bde1441dd35d133c838605d190e" title=" " alt="" coords="360,99,611,137"/>
+<area shape="rect" id="node3" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_packet.html#a64d44fe78ea4ff6c9608224dd856deeb" title=" " alt="" coords="693,5,952,44"/>
+<area shape="rect" id="node4" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_packet.html#afb1e18f323c4af856c74890c52f9d46d" title=" " alt="" coords="693,68,952,107"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="ch.ethz.systems.netbench.ext.ecmp.EcmpSwitchTest.setup" name="ch.ethz.systems.netbench.ext.ecmp.EcmpSwitchTest.setup">
+<area shape="rect" id="node1" title=" " alt="" coords="5,163,242,201"/>
+<area shape="rect" id="node2" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_network_device.html#ab18e97b1d7ba88941f9a11a3a32e30d4" title=" " alt="" coords="295,68,554,107"/>
+<area shape="rect" id="node6" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1ext_1_1ecmp_1_1_ecmp_switch.html#ab0371ffed8b4a048ad43ac222bcb6143" title=" " alt="" coords="290,131,558,169"/>
+<area shape="rect" id="node7" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1testutility_1_1_test_topology_ports_construction.html#afdcb438fd3ddfab0c64f9017df619a24" title=" " alt="" coords="298,193,550,232"/>
+<area shape="rect" id="node8" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1_simulator.html#a5e7df9ed690db658239fdeed54b1e039" title=" " alt="" coords="320,256,529,295"/>
+<area shape="rect" id="node3" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_network_device.html#a8e8925a6a1070434d2ee36bef53d76e8" title=" " alt="" coords="606,5,866,44"/>
+<area shape="rect" id="node4" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_output_port.html#a877ac954b56dd49ba40b65a3492402d9" title=" " alt="" coords="606,68,866,107"/>
+<area shape="rect" id="node5" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_output_port.html#affe1aeb7aed9284dc04d7236b364210f" title=" " alt="" coords="606,131,866,169"/>
+</map>

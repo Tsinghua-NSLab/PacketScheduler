@@ -1,0 +1,12 @@
+<map id="ch.ethz.systems.netbench.xpt.tcpbase.PriorityHeader.getPriority" name="ch.ethz.systems.netbench.xpt.tcpbase.PriorityHeader.getPriority">
+<area shape="rect" id="node1" title=" " alt="" coords="657,225,908,264"/>
+<area shape="rect" id="node2" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1tcpbase_1_1_full_ext_tcp_packet.html#a556280d5fb58447c0d5ec04fda7d4b0c" title=" " alt="" coords="342,5,593,44"/>
+<area shape="rect" id="node3" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_s_p_p_i_f_o_1_1_s_p_p_i_f_o_queue.html#aed67e86b3692779ae0a65f9f5a200ab6" title=" " alt="" coords="331,68,604,107"/>
+<area shape="rect" id="node4" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_greedy_1_1_greedy_queue.html#a0c501ce2ff8e06dfd1630604fd86b43b" title=" " alt="" coords="331,131,604,169"/>
+<area shape="rect" id="node5" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_greedy_1_1_greedy_queue___advanced.html#a1c3a1989229b627130f3a612378b0e7b" title=" " alt="" coords="331,193,604,232"/>
+<area shape="rect" id="node6" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_s_p_p_i_f_o_1_1_s_p_p_i_f_o_queue.html#a76d34e4fb8cd31d57942bd7b68e7a370" title=" " alt="" coords="331,256,604,295"/>
+<area shape="rect" id="node7" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_greedy_1_1_greedy_queue___advanced.html#a5636ed36f9bdf29c8221f8ac95695f00" title=" " alt="" coords="331,319,604,357"/>
+<area shape="rect" id="node8" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1voijslav__and__sppifo_1_1ports_1_1_priority_output_port.html#a04c5e77447c043b8f072d9f33d3465fc" title=" " alt="" coords="327,381,609,433"/>
+<area shape="rect" id="node9" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_p_i_f_o___w_f_q_1_1_w_f_q_p_i_f_o_queue.html#a41dbcf7359c4ac142fe6af1c87b22300" title=" " alt="" coords="327,457,608,496"/>
+<area shape="rect" id="node10" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_p_i_f_o___w_f_q_1_1_w_f_q_p_i_f_o_queue.html#a7f59fe1be316357e95844f3c1e78e571" title=" " alt="" coords="5,457,279,496"/>
+</map>

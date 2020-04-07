@@ -1,0 +1,7 @@
+<map id="ch.ethz.systems.netbench.xpt.sppifo.ports.Greedy.GreedyQueue_Advanced.offer" name="ch.ethz.systems.netbench.xpt.sppifo.ports.Greedy.GreedyQueue_Advanced.offer">
+<area shape="rect" id="node1" title=" " alt="" coords="5,109,279,148"/>
+<area shape="rect" id="node2" href="$interfacech_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1tcpbase_1_1_priority_header.html#a48004edfd060958f68d141a5f1324008" title=" " alt="" coords="345,5,596,44"/>
+<area shape="rect" id="node3" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1log_1_1_simulation_logger.html#a649d809818ab21e177218737ac943d7c" title=" " alt="" coords="331,68,610,120"/>
+<area shape="rect" id="node4" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_greedy_1_1_greedy_queue___advanced.html#aebfc515d63d3606341d1faac623925c0" title=" " alt="" coords="327,144,615,183"/>
+<area shape="rect" id="node5" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1log_1_1_simulation_logger.html#aa26e34d3924de771123399f379a47eab" title=" " alt="" coords="355,207,586,245"/>
+</map>

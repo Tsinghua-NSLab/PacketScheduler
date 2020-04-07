@@ -1,0 +1,5 @@
+<map id="ch.ethz.systems.netbench.xpt.voijslav_and_sppifo.tcp.distmeantcp.DistMeanTcpSocket" name="ch.ethz.systems.netbench.xpt.voijslav_and_sppifo.tcp.distmeantcp.DistMeanTcpSocket">
+<area shape="rect" id="node1" title=" " alt="" coords="13,1008,326,1108"/>
+<area shape="rect" id="node2" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1newreno_1_1newrenotcp_1_1_new_reno_tcp_socket.html" title=" " alt="" coords="5,340,334,960"/>
+<area shape="rect" id="node3" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_socket.html" title=" " alt="" coords="40,5,299,292"/>
+</map>

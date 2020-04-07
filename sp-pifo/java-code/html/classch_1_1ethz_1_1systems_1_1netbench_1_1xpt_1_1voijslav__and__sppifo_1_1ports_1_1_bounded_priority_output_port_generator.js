@@ -1,0 +1,6 @@
+var classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1voijslav__and__sppifo_1_1ports_1_1_bounded_priority_output_port_generator =
+[
+    [ "BoundedPriorityOutputPortGenerator", "classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1voijslav__and__sppifo_1_1ports_1_1_bounded_priority_output_port_generator.html#ac27f7689758eb3dd5927e364eaacd875", null ],
+    [ "generate", "classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1voijslav__and__sppifo_1_1ports_1_1_bounded_priority_output_port_generator.html#ac5fa496374224171f5f62baceb747efd", null ],
+    [ "maxQueueSizeInBits", "classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1voijslav__and__sppifo_1_1ports_1_1_bounded_priority_output_port_generator.html#a19bbdc804bbf13ad2f58dd137aa18d8b", null ]
+];

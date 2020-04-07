@@ -1,0 +1,5 @@
+<map id="ch.ethz.systems.netbench.xpt.sppifo.ports.AFQ.AFQQueue.offer" name="ch.ethz.systems.netbench.xpt.sppifo.ports.AFQ.AFQQueue.offer">
+<area shape="rect" id="node1" title=" " alt="" coords="5,37,279,76"/>
+<area shape="rect" id="node2" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_packet.html#a64d44fe78ea4ff6c9608224dd856deeb" title=" " alt="" coords="327,5,586,44"/>
+<area shape="rect" id="node3" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_packet.html#afb1e18f323c4af856c74890c52f9d46d" title=" " alt="" coords="327,68,586,107"/>
+</map>

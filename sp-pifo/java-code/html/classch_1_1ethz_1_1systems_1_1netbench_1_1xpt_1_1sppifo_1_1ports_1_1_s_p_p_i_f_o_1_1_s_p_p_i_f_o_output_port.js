@@ -1,0 +1,5 @@
+var classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_s_p_p_i_f_o_1_1_s_p_p_i_f_o_output_port =
+[
+    [ "SPPIFOOutputPort", "classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_s_p_p_i_f_o_1_1_s_p_p_i_f_o_output_port.html#aa0ecd31c47d9ebf7010ba9ec1844c1f2", null ],
+    [ "enqueue", "classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_s_p_p_i_f_o_1_1_s_p_p_i_f_o_output_port.html#ac41bdfb6942b74355241aef8f26824ed", null ]
+];

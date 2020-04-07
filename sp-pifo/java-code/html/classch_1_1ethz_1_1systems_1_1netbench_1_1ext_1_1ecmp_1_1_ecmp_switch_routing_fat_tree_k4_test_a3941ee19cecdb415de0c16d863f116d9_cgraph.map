@@ -1,0 +1,10 @@
+<map id="ch.ethz.systems.netbench.ext.ecmp.EcmpSwitchRoutingFatTreeK4Test.testEcmpFatTreeK4" name="ch.ethz.systems.netbench.ext.ecmp.EcmpSwitchRoutingFatTreeK4Test.testEcmpFatTreeK4">
+<area shape="rect" id="node1" title=" " alt="" coords="5,93,258,145"/>
+<area shape="rect" id="node2" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1run_1_1routing_1_1_routing_populator.html#ab17004c5e9038a6812300d1ed21dc462" title=" " alt="" coords="306,5,582,44"/>
+<area shape="rect" id="node3" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1_simulator.html#a15d3c17ade0b8ee01cf7e9f6e04040e4" title=" " alt="" coords="340,68,549,107"/>
+<area shape="rect" id="node4" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1run_1_1_routing_selector.html#a51dbc27afcaaaf33631762f4a83f0b35" title=" " alt="" coords="328,131,560,169"/>
+<area shape="rect" id="node8" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1_simulator.html#a5e7df9ed690db658239fdeed54b1e039" title=" " alt="" coords="340,193,549,232"/>
+<area shape="rect" id="node5" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1_simulator.html#a79429c2cba847b3c516602378a2d9b59" title=" " alt="" coords="650,100,859,139"/>
+<area shape="rect" id="node6" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1config_1_1_n_b_properties.html#a96646d808fa5552f865ef579589a3476" title=" " alt="" coords="630,163,879,201"/>
+<area shape="rect" id="node7" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1config_1_1_n_b_properties.html#a9f3883908693fce80f9f0c62cecc430b" title=" " alt="" coords="927,163,1175,201"/>
+</map>

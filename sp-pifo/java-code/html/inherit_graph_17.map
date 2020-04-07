@@ -1,0 +1,16 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_output_port.html" title=" " alt="" coords="5,381,265,420"/>
+<area shape="rect" id="node2" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1ext_1_1basic_1_1_ecn_tail_drop_output_port.html" title=" " alt="" coords="340,5,576,44"/>
+<area shape="rect" id="node3" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_a_f_q_1_1_a_f_q_output_port.html" title=" " alt="" coords="321,68,594,107"/>
+<area shape="rect" id="node4" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_f_i_f_o_1_1_f_i_f_o_output_port.html" title=" " alt="" coords="321,131,594,169"/>
+<area shape="rect" id="node5" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_greedy_1_1_greedy_output_port___advanced.html" title=" " alt="" coords="321,193,594,232"/>
+<area shape="rect" id="node6" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_greedy_1_1_greedy_output_port___simple.html" title=" " alt="" coords="321,256,594,295"/>
+<area shape="rect" id="node7" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_p_i_f_o_1_1_p_i_f_o_output_port.html" title=" " alt="" coords="321,319,594,357"/>
+<area shape="rect" id="node8" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_p_i_f_o___w_f_q_1_1_w_f_q_p_i_f_o_output_port.html" title=" " alt="" coords="321,381,594,420"/>
+<area shape="rect" id="node9" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_s_p_p_i_f_o_1_1_s_p_p_i_f_o_output_port.html" title=" " alt="" coords="321,444,594,483"/>
+<area shape="rect" id="node10" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_s_p_p_i_f_o___w_f_q_1_1_w_f_q_s_p_p_i_f_o_output_port.html" title=" " alt="" coords="321,507,594,545"/>
+<area shape="rect" id="node11" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_tail_drop_1_1_tail_drop_output_port.html" title=" " alt="" coords="321,569,594,608"/>
+<area shape="rect" id="node12" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1voijslav__and__sppifo_1_1ports_1_1_bounded_priority_output_port.html" title=" " alt="" coords="313,632,603,671"/>
+<area shape="rect" id="node13" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1voijslav__and__sppifo_1_1ports_1_1_priority_output_port.html" title=" " alt="" coords="336,695,580,733"/>
+<area shape="rect" id="node14" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1voijslav__and__sppifo_1_1ports_1_1_unlimited_output_port.html" title=" " alt="" coords="332,757,583,796"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="ch.ethz.systems.netbench.core.network.Socket.confirmFlow" name="ch.ethz.systems.netbench.core.network.Socket.confirmFlow">
+<area shape="rect" id="node1" title=" " alt="" coords="5,87,265,125"/>
+<area shape="rect" id="node2" href="$k__extension_8m.html#a7647115806440e0f5deb720bae0ea7e0" title=" " alt="" coords="413,5,471,31"/>
+<area shape="rect" id="node3" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_socket.html#a21cabfca553fe61280394f600c256c78" title=" " alt="" coords="313,55,572,93"/>
+<area shape="rect" id="node4" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1log_1_1_flow_logger.html#a63be760fb9befd37036a911943c982be" title=" " alt="" coords="327,117,557,156"/>
+<area shape="rect" id="node6" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1_simulator.html#aa4190fbeabf16bb9853f60d58cb279f2" title=" " alt="" coords="338,180,547,219"/>
+<area shape="rect" id="node5" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1_simulator.html#ac273d00052a385d6dd7557dd97ee8de8" title=" " alt="" coords="620,117,829,156"/>
+</map>

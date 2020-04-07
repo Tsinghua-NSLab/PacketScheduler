@@ -1,0 +1,5 @@
+var classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1newreno_1_1newrenotcp_1_1_new_reno_tcp_transport_layer_generator =
+[
+    [ "NewRenoTcpTransportLayerGenerator", "classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1newreno_1_1newrenotcp_1_1_new_reno_tcp_transport_layer_generator.html#a582ea494069b004ef4b192ea79904308", null ],
+    [ "generate", "classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1newreno_1_1newrenotcp_1_1_new_reno_tcp_transport_layer_generator.html#ad696f0031a7e59716af3cbba9aa5210c", null ]
+];

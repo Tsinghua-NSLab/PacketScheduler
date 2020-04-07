@@ -1,0 +1,12 @@
+<map id="ch.ethz.systems.netbench.ext.demo.DemoIntermediary" name="ch.ethz.systems.netbench.ext.demo.DemoIntermediary">
+<area shape="rect" id="node1" title=" " alt="" coords="16,260,254,373"/>
+<area shape="rect" id="node2" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_intermediary.html" title=" " alt="" coords="5,5,265,145"/>
+<area shape="rect" id="node3" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_network_device.html" title=" " alt="" coords="304,207,563,427"/>
+<area shape="rect" id="node5" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_transport_layer.html" title=" " alt="" coords="611,488,870,708"/>
+<area shape="rect" id="node4" title=" " alt="" coords="289,32,634,119"/>
+<area shape="rect" id="node6" title=" " alt="" coords="597,280,734,353"/>
+<area shape="rect" id="node7" title=" " alt="" coords="759,280,853,353"/>
+<area shape="rect" id="node8" title=" " alt="" coords="876,273,1210,360"/>
+<area shape="rect" id="node9" title=" " alt="" coords="1233,273,1567,360"/>
+<area shape="rect" id="node10" title=" " alt="" coords="658,39,764,112"/>
+</map>

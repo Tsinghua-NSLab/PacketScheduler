@@ -1,0 +1,21 @@
+<map id="ch.ethz.systems.netbench.xpt.sourcerouting.SourceRoutingSwitchExtendedTest.setup" name="ch.ethz.systems.netbench.xpt.sourcerouting.SourceRoutingSwitchExtendedTest.setup">
+<area shape="rect" id="node1" title=" " alt="" coords="5,479,291,517"/>
+<area shape="rect" id="node2" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1config_1_1_topology_server_extender.html#a0ae4ca0eaa1c9be40146556d36288c6f" title=" " alt="" coords="339,227,596,265"/>
+<area shape="rect" id="node14" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1_simulator.html#a79429c2cba847b3c516602378a2d9b59" title=" " alt="" coords="363,447,571,485"/>
+<area shape="rect" id="node15" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1config_1_1_n_b_properties.html#ac3e4e412ff8ca48183fb8d1621059fd4" title=" " alt="" coords="343,509,591,548"/>
+<area shape="rect" id="node19" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1_simulator.html#a5e7df9ed690db658239fdeed54b1e039" title=" " alt="" coords="363,572,571,611"/>
+<area shape="rect" id="node3" href="$classedu_1_1asu_1_1emit_1_1algorithm_1_1graph_1_1_graph.html#ab199ee23d955f70ba7b62a8b91b7b44a" title=" " alt="" coords="669,68,866,107"/>
+<area shape="rect" id="node5" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1config_1_1_graph_details.html#a9aae700e3968c60b1fcd42b84d98e824" title=" " alt="" coords="940,100,1188,139"/>
+<area shape="rect" id="node6" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1config_1_1_graph_details.html#af56af7a55b1eba9a54d21ededdb587fc" title=" " alt="" coords="940,163,1188,201"/>
+<area shape="rect" id="node7" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1config_1_1_graph_details.html#abdca03160a0d3edcc941acd390e52ac1" title=" " alt="" coords="940,225,1188,264"/>
+<area shape="rect" id="node8" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1config_1_1_graph_details.html#a62877fc13114f9f2dc2df45f66a12dca" title=" " alt="" coords="940,413,1188,452"/>
+<area shape="rect" id="node9" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1config_1_1_graph_details.html#adb06d3e9ee13f9b29a8dc7548dff2ec3" title=" " alt="" coords="940,476,1188,515"/>
+<area shape="rect" id="node10" href="$classedu_1_1asu_1_1emit_1_1algorithm_1_1graph_1_1_graph.html#ac6bf9d9e8beb777138a8aad063709a23" title=" " alt="" coords="669,5,866,44"/>
+<area shape="rect" id="node11" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1config_1_1_graph_reader.html#af4e41fcb1d28fe48f10bee1b40cc5a13" title=" " alt="" coords="644,287,892,325"/>
+<area shape="rect" id="node4" href="$classedu_1_1asu_1_1emit_1_1algorithm_1_1graph_1_1_vertex.html#a4c6f9ee3d799e3d64af450f467d5723a" title=" " alt="" coords="965,37,1163,76"/>
+<area shape="rect" id="node12" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1config_1_1_graph_reader.html#a736119e92a68ea9645833ac08f6d9751" title=" " alt="" coords="940,351,1188,389"/>
+<area shape="rect" id="node13" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1config_1_1_graph_details.html#a1ef389a23b05643425769a9375ec9c5d" title=" " alt="" coords="940,288,1188,327"/>
+<area shape="rect" id="node16" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1config_1_1_n_b_properties.html#a9f3883908693fce80f9f0c62cecc430b" title=" " alt="" coords="940,539,1188,577"/>
+<area shape="rect" id="node17" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1config_1_1_n_b_properties.html#a2686ec06666f85d61bd147f415757c30" title=" " alt="" coords="644,537,892,576"/>
+<area shape="rect" id="node18" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1config_1_1_n_b_properties.html#acfef54db011a54e2e14084ebb6428a23" title=" " alt="" coords="644,600,892,639"/>
+</map>

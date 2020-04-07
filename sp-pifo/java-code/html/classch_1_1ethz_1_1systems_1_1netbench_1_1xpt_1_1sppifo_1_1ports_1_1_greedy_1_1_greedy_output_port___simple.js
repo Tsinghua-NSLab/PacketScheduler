@@ -1,0 +1,5 @@
+var classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_greedy_1_1_greedy_output_port___simple =
+[
+    [ "GreedyOutputPort_Simple", "classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_greedy_1_1_greedy_output_port___simple.html#a37a6a3582e959c14fd4d1c25ca15b12e", null ],
+    [ "enqueue", "classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_greedy_1_1_greedy_output_port___simple.html#abd1751cbf2d6914d29f96962b7c5ec47", null ]
+];

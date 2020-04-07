@@ -1,0 +1,9 @@
+var classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_greedy_1_1_greedy_output_port_generator___advanced =
+[
+    [ "GreedyOutputPortGenerator_Advanced", "classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_greedy_1_1_greedy_output_port_generator___advanced.html#a08218fbc146afdfa065f5310a7f89cab", null ],
+    [ "generate", "classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_greedy_1_1_greedy_output_port_generator___advanced.html#a9a9e77730abb15cd90499b9957fb62b1", null ],
+    [ "fixQueueBounds", "classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_greedy_1_1_greedy_output_port_generator___advanced.html#afec764ff09293d1e098cd9b2c0c9e5ed", null ],
+    [ "initialization", "classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_greedy_1_1_greedy_output_port_generator___advanced.html#ae1702da2d4dee2d5e31675784515e68b", null ],
+    [ "numberQueues", "classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_greedy_1_1_greedy_output_port_generator___advanced.html#ab09767f585d503d0252bab718ebd9654", null ],
+    [ "sizePerQueuePackets", "classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_greedy_1_1_greedy_output_port_generator___advanced.html#a5e4e9f87e9c9b3d372eb264240517d38", null ]
+];

@@ -1,0 +1,7 @@
+<map id="ch.ethz.systems.netbench.core.network.TransportLayer.receive" name="ch.ethz.systems.netbench.core.network.TransportLayer.receive">
+<area shape="rect" id="node1" title=" " alt="" coords="5,100,265,139"/>
+<area shape="rect" id="node2" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_transport_layer.html#ab360a0562a34cfde9299876b436f3f1d" title=" " alt="" coords="313,5,572,44"/>
+<area shape="rect" id="node3" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_packet.html#a64d44fe78ea4ff6c9608224dd856deeb" title=" " alt="" coords="313,68,572,107"/>
+<area shape="rect" id="node4" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1ext_1_1basic_1_1_ip_packet.html#a48a2f22e9fcb628bbb522f854e197764" title=" " alt="" coords="324,131,560,169"/>
+<area shape="rect" id="node5" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_socket.html#aba0a107c8622fc19bd09208996bfaa62" title=" " alt="" coords="313,193,572,232"/>
+</map>

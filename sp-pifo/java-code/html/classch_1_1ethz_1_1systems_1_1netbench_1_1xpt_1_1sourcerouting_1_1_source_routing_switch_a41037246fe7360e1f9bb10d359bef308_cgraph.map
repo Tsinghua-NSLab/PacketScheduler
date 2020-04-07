@@ -1,0 +1,13 @@
+<map id="ch.ethz.systems.netbench.xpt.sourcerouting.SourceRoutingSwitch.receive" name="ch.ethz.systems.netbench.xpt.sourcerouting.SourceRoutingSwitch.receive">
+<area shape="rect" id="node1" title=" " alt="" coords="5,100,291,139"/>
+<area shape="rect" id="node2" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1ext_1_1basic_1_1_ip_packet.html#a4389ef152a1d882ff8851cafb7723181" title=" " alt="" coords="363,5,599,44"/>
+<area shape="rect" id="node3" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sourcerouting_1_1_source_routing_encapsulation.html#ae4daaa72ae4865f2287ef19247596d4a" title=" " alt="" coords="339,68,624,107"/>
+<area shape="rect" id="node4" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sourcerouting_1_1_source_routing_encapsulation.html#a29fa9e51506ee4300b929171784026e3" title=" " alt="" coords="339,131,624,169"/>
+<area shape="rect" id="node5" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_network_device.html#a697bbd234665f75b072fdfc12dc1dc18" title=" " alt="" coords="351,193,611,232"/>
+<area shape="rect" id="node6" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_intermediary.html#affbccabc5bbb981c78ff6f3f5898f7dc" title=" " alt="" coords="672,161,931,200"/>
+<area shape="rect" id="node7" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_transport_layer.html#a9e7ddd179eb34faeda96f8994a6e316d" title=" " alt="" coords="672,224,931,263"/>
+<area shape="rect" id="node8" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_transport_layer.html#ab360a0562a34cfde9299876b436f3f1d" title=" " alt="" coords="979,129,1238,168"/>
+<area shape="rect" id="node9" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_packet.html#a64d44fe78ea4ff6c9608224dd856deeb" title=" " alt="" coords="979,192,1238,231"/>
+<area shape="rect" id="node10" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1ext_1_1basic_1_1_ip_packet.html#a48a2f22e9fcb628bbb522f854e197764" title=" " alt="" coords="991,255,1226,293"/>
+<area shape="rect" id="node11" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_socket.html#aba0a107c8622fc19bd09208996bfaa62" title=" " alt="" coords="979,317,1238,356"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="ch.ethz.systems.netbench.ext.demo.DemoSocket.handle" name="ch.ethz.systems.netbench.ext.demo.DemoSocket.handle">
+<area shape="rect" id="node1" title=" " alt="" coords="5,165,243,204"/>
+<area shape="rect" id="node2" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_socket.html#a4a544ae8e1e0a376447e2e1da42effb5" title=" " alt="" coords="291,117,550,156"/>
+<area shape="rect" id="node4" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_socket.html#a21cabfca553fe61280394f600c256c78" title=" " alt="" coords="614,5,873,44"/>
+<area shape="rect" id="node8" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1ext_1_1demo_1_1_demo_socket.html#abf64a6034ae3635ec2f60e167bfa1c82" title=" " alt="" coords="297,196,545,235"/>
+<area shape="rect" id="node10" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_transport_layer.html#a9c8f285cdb70a9ebdb2c27c718a4de84" title=" " alt="" coords="291,289,550,328"/>
+<area shape="rect" id="node3" href="$k__extension_8m.html#a7647115806440e0f5deb720bae0ea7e0" title=" " alt="" coords="715,68,773,93"/>
+<area shape="rect" id="node5" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1log_1_1_flow_logger.html#a63be760fb9befd37036a911943c982be" title=" " alt="" coords="629,117,859,156"/>
+<area shape="rect" id="node7" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1_simulator.html#aa4190fbeabf16bb9853f60d58cb279f2" title=" " alt="" coords="639,180,848,219"/>
+<area shape="rect" id="node6" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1_simulator.html#ac273d00052a385d6dd7557dd97ee8de8" title=" " alt="" coords="964,117,1173,156"/>
+<area shape="rect" id="node9" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_socket.html#a58220397a562a01fe7f55935f622e338" title=" " alt="" coords="598,243,889,281"/>
+<area shape="rect" id="node11" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_network_device.html#adb985071bb9b78605e5ce39bf6e2c91f" title=" " alt="" coords="604,305,883,344"/>
+<area shape="rect" id="node12" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_intermediary.html#ae540c4e18380b846bab05508a606b3c4" title=" " alt="" coords="939,273,1198,312"/>
+<area shape="rect" id="node13" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_network_device.html#aaaf9faf07fe7d5e5bab4b9482c55e442" title=" " alt="" coords="937,336,1200,375"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="ch.ethz.systems.netbench.core.network.NetworkDevice" name="ch.ethz.systems.netbench.core.network.NetworkDevice">
+<area shape="rect" id="node1" title=" " alt="" coords="259,5,518,279"/>
+<area shape="rect" id="node2" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1ext_1_1ecmp_1_1_ecmp_switch.html" title=" " alt="" coords="8,340,245,480"/>
+<area shape="rect" id="node6" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1ext_1_1ecmp_1_1_forwarder_switch.html" title=" " alt="" coords="270,340,507,480"/>
+<area shape="rect" id="node7" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sourcerouting_1_1_source_routing_switch.html" title=" " alt="" coords="531,327,816,493"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,568,248,668"/>
+<area shape="rect" id="node4" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1ext_1_1valiant_1_1_range_valiant_switch.html" title=" " alt="" coords="5,743,248,909"/>
+<area shape="rect" id="node5" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1ext_1_1hybrid_1_1_ecmp_then_valiant_switch.html" title=" " alt="" coords="6,957,247,1084"/>
+<area shape="rect" id="node8" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sourcerouting_1_1_ecmp_then_source_routing_switch.html" title=" " alt="" coords="531,541,816,695"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="ch.ethz.systems.netbench.ext.poissontraffic.PoissonArrivalPlanner" name="ch.ethz.systems.netbench.ext.poissontraffic.PoissonArrivalPlanner">
+<area shape="rect" id="node1" title=" " alt="" coords="678,836,961,1149"/>
+<area shape="rect" id="node2" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1run_1_1traffic_1_1_traffic_planner.html" title=" " alt="" coords="411,641,679,755"/>
+<area shape="rect" id="node3" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1config_1_1_graph_details.html" title=" " alt="" coords="106,180,354,560"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,12,111,85"/>
+<area shape="rect" id="node5" title=" " alt="" coords="135,12,326,85"/>
+<area shape="rect" id="node6" title=" " alt="" coords="350,5,508,92"/>
+<area shape="rect" id="node7" title=" " alt="" coords="378,327,723,413"/>
+<area shape="rect" id="node8" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1ext_1_1poissontraffic_1_1flowsize_1_1_flow_size_distribution.html" title=" " alt="" coords="883,648,1217,748"/>
+<area shape="rect" id="node9" title=" " alt="" coords="882,333,954,407"/>
+<area shape="rect" id="node10" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1ext_1_1poissontraffic_1_1_random_collection.html" title=" " alt="" coords="1241,621,1524,775"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1run_1_1infrastructure_1_1_network_device_generator.html" title=" " alt="" coords="5,163,319,201"/>
+<area shape="rect" id="node2" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1ext_1_1ecmp_1_1_ecmp_switch_generator.html" title=" " alt="" coords="391,5,628,44"/>
+<area shape="rect" id="node3" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1ext_1_1ecmp_1_1_forwarder_switch_generator.html" title=" " alt="" coords="391,68,628,107"/>
+<area shape="rect" id="node4" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1ext_1_1hybrid_1_1_ecmp_then_valiant_switch_generator.html" title=" " alt="" coords="389,131,630,169"/>
+<area shape="rect" id="node5" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1ext_1_1valiant_1_1_range_valiant_switch_generator.html" title=" " alt="" coords="388,193,631,232"/>
+<area shape="rect" id="node6" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sourcerouting_1_1_ecmp_then_source_routing_switch_generator.html" title=" " alt="" coords="367,256,652,295"/>
+<area shape="rect" id="node7" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sourcerouting_1_1_source_routing_switch_generator.html" title=" " alt="" coords="367,319,652,357"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="ch.ethz.systems.netbench.core.network.OutputPort.potentialEnqueue" name="ch.ethz.systems.netbench.core.network.OutputPort.potentialEnqueue">
+<area shape="rect" id="node1" title=" " alt="" coords="366,131,625,169"/>
+<area shape="rect" id="node2" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_s_p_p_i_f_o_1_1_s_p_p_i_f_o_output_port.html#ac41bdfb6942b74355241aef8f26824ed" title=" " alt="" coords="25,5,298,44"/>
+<area shape="rect" id="node3" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_greedy_1_1_greedy_output_port___advanced.html#a97f334da6f498e466918b9810c3f75bd" title=" " alt="" coords="12,68,311,107"/>
+<area shape="rect" id="node4" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_greedy_1_1_greedy_output_port___simple.html#abd1751cbf2d6914d29f96962b7c5ec47" title=" " alt="" coords="22,131,301,169"/>
+<area shape="rect" id="node5" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_s_p_p_i_f_o___w_f_q_1_1_w_f_q_s_p_p_i_f_o_output_port.html#a100ba8904afde1d5d27718b78a70174e" title=" " alt="" coords="5,193,318,232"/>
+<area shape="rect" id="node6" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_a_f_q_1_1_a_f_q_output_port.html#aab71e5abf7b8bb707099a45d4d74e7ab" title=" " alt="" coords="25,256,298,295"/>
+</map>

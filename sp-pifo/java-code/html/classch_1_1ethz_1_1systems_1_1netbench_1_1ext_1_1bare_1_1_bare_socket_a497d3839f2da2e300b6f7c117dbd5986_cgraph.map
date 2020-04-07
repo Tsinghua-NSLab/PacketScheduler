@@ -1,0 +1,10 @@
+<map id="ch.ethz.systems.netbench.ext.bare.BareSocket.sendWithResend" name="ch.ethz.systems.netbench.ext.bare.BareSocket.sendWithResend">
+<area shape="rect" id="node1" title=" " alt="" coords="5,100,236,139"/>
+<area shape="rect" id="node2" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1ext_1_1bare_1_1_bare_socket.html#ac113a7d278590c481c62ee18b50637e5" title=" " alt="" coords="302,5,540,44"/>
+<area shape="rect" id="node3" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1log_1_1_simulation_logger.html#a1c27758fa0f7ff355d0c08b55db0fe17" title=" " alt="" coords="284,68,557,107"/>
+<area shape="rect" id="node4" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1_simulator.html#a9dd411be17ce18c292b4674f394fb2cb" title=" " alt="" coords="316,131,525,169"/>
+<area shape="rect" id="node5" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_transport_layer.html#a9c8f285cdb70a9ebdb2c27c718a4de84" title=" " alt="" coords="291,193,550,232"/>
+<area shape="rect" id="node6" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_network_device.html#adb985071bb9b78605e5ce39bf6e2c91f" title=" " alt="" coords="605,193,884,232"/>
+<area shape="rect" id="node7" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_intermediary.html#ae540c4e18380b846bab05508a606b3c4" title=" " alt="" coords="934,161,1193,200"/>
+<area shape="rect" id="node8" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_network_device.html#aaaf9faf07fe7d5e5bab4b9482c55e442" title=" " alt="" coords="932,224,1195,263"/>
+</map>

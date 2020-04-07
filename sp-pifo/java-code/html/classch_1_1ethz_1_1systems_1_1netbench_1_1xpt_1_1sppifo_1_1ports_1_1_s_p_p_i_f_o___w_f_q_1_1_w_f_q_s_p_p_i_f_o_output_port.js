@@ -1,0 +1,5 @@
+var classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_s_p_p_i_f_o___w_f_q_1_1_w_f_q_s_p_p_i_f_o_output_port =
+[
+    [ "WFQSPPIFOOutputPort", "classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_s_p_p_i_f_o___w_f_q_1_1_w_f_q_s_p_p_i_f_o_output_port.html#aea433d19197302d36b0cc19e591174fc", null ],
+    [ "enqueue", "classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1sppifo_1_1ports_1_1_s_p_p_i_f_o___w_f_q_1_1_w_f_q_s_p_p_i_f_o_output_port.html#a100ba8904afde1d5d27718b78a70174e", null ]
+];

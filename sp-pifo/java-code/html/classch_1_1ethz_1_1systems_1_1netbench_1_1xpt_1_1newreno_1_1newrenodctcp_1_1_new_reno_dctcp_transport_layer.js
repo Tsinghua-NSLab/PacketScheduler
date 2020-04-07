@@ -1,0 +1,5 @@
+var classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1newreno_1_1newrenodctcp_1_1_new_reno_dctcp_transport_layer =
+[
+    [ "NewRenoDctcpTransportLayer", "classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1newreno_1_1newrenodctcp_1_1_new_reno_dctcp_transport_layer.html#adcb339741efc9597fa1d5f78ab06c0a4", null ],
+    [ "createSocket", "classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1newreno_1_1newrenodctcp_1_1_new_reno_dctcp_transport_layer.html#a2cb39acd6613ad8b3597edb59d761920", null ]
+];

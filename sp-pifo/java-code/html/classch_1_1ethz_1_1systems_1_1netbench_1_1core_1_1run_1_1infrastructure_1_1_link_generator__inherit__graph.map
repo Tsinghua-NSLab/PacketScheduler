@@ -1,0 +1,5 @@
+<map id="ch.ethz.systems.netbench.core.run.infrastructure.LinkGenerator" name="ch.ethz.systems.netbench.core.run.infrastructure.LinkGenerator">
+<area shape="rect" id="node1" title=" " alt="" coords="96,5,409,92"/>
+<area shape="rect" id="node2" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1ext_1_1basic_1_1_perfect_simple_link_generator.html" title=" " alt="" coords="5,140,241,253"/>
+<area shape="rect" id="node3" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1ext_1_1basic_1_1_split_bandwidth_link_generator.html" title=" " alt="" coords="265,140,501,253"/>
+</map>

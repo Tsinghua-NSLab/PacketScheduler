@@ -1,0 +1,6 @@
+<map id="ch.ethz.systems.netbench.xpt.tcpbase.PriorityHeader" name="ch.ethz.systems.netbench.xpt.tcpbase.PriorityHeader">
+<area shape="rect" id="node1" title=" " alt="" coords="9,689,260,803"/>
+<area shape="rect" id="node2" href="$interfacech_1_1ethz_1_1systems_1_1netbench_1_1ext_1_1basic_1_1_tcp_header.html" title=" " alt="" coords="17,395,253,641"/>
+<area shape="rect" id="node3" href="$interfacech_1_1ethz_1_1systems_1_1netbench_1_1ext_1_1basic_1_1_ip_header.html" title=" " alt="" coords="17,193,253,347"/>
+<area shape="rect" id="node4" href="$interfacech_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_packet_header.html" title=" " alt="" coords="5,5,265,145"/>
+</map>

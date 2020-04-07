@@ -1,0 +1,5 @@
+<map id="ch.ethz.systems.netbench.xpt.sourcerouting.SourceRoutingSwitchGenerator" name="ch.ethz.systems.netbench.xpt.sourcerouting.SourceRoutingSwitchGenerator">
+<area shape="rect" id="node1" title=" " alt="" coords="187,167,473,280"/>
+<area shape="rect" id="node2" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1run_1_1infrastructure_1_1_network_device_generator.html" title=" " alt="" coords="5,5,319,105"/>
+<area shape="rect" id="node3" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1run_1_1infrastructure_1_1_intermediary_generator.html" title=" " alt="" coords="343,12,656,99"/>
+</map>

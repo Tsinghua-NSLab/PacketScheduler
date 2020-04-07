@@ -1,0 +1,8 @@
+<map id="ch.ethz.systems.netbench.ext.valiant.RangeValiantSwitch" name="ch.ethz.systems.netbench.ext.valiant.RangeValiantSwitch">
+<area shape="rect" id="node1" title=" " alt="" coords="149,663,392,829"/>
+<area shape="rect" id="node6" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1ext_1_1hybrid_1_1_ecmp_then_valiant_switch.html" title=" " alt="" coords="151,877,391,1004"/>
+<area shape="rect" id="node2" title=" " alt="" coords="149,515,392,615"/>
+<area shape="rect" id="node3" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1ext_1_1ecmp_1_1_ecmp_switch.html" title=" " alt="" coords="152,327,389,467"/>
+<area shape="rect" id="node4" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1network_1_1_network_device.html" title=" " alt="" coords="5,5,265,279"/>
+<area shape="rect" id="node5" href="$interfacech_1_1ethz_1_1systems_1_1netbench_1_1ext_1_1ecmp_1_1_ecmp_switch_routing_interface.html" title=" " alt="" coords="288,99,525,185"/>
+</map>

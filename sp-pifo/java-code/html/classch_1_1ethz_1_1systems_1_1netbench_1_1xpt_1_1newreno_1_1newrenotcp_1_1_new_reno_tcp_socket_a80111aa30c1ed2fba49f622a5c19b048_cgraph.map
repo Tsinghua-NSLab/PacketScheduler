@@ -1,0 +1,5 @@
+<map id="ch.ethz.systems.netbench.xpt.newreno.newrenotcp.NewRenoTcpSocket.resetRetransmissionTimeOutTimer" name="ch.ethz.systems.netbench.xpt.newreno.newrenotcp.NewRenoTcpSocket.resetRetransmissionTimeOutTimer">
+<area shape="rect" id="node1" title=" " alt="" coords="5,37,356,76"/>
+<area shape="rect" id="node2" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1xpt_1_1newreno_1_1_tcp_retransmission_time_out_event.html#add23d40194b4a8f6ccc500f10920b3ac" title=" " alt="" coords="404,5,665,44"/>
+<area shape="rect" id="node3" href="$classch_1_1ethz_1_1systems_1_1netbench_1_1core_1_1_simulator.html#a9dd411be17ce18c292b4674f394fb2cb" title=" " alt="" coords="430,68,639,107"/>
+</map>

@@ -16,8 +16,15 @@ public class CalQueue implements Queue {
 	private final ReentrantLock reentrantLock = new ReentrantLock();
 	private int ownId;
 	private ArrayList<ArrayBlockingQueue<Packet>> calQueue;
+	private ArrayList<Packet> pktQueue;
 	private int calNum;
 	private int round;
+	private int pktsNum;
+
+	public CalQueue() {
+		pktsNum = 0;
+		pktQueue = new ArrayList<Packet>(1000);
+	}
 
 	public CalQueue(int calendarNum, long perQueueCapacity, NetworkDevice ownNetworkDevice, String stepSize) {
 		this.ownId = ownNetworkDevice.getIdentifier();
@@ -28,18 +35,18 @@ public class CalQueue implements Queue {
 		}
 		this.calNum = calendarNum;
 		this.round = 0;
+		this.pktsNum = 0;
 	}
 
 	@Override
 	public int size() {
-		// TODO Auto-generated method stub
-		return 0;
+		return pktsNum;
 	}
 
 	@Override
 	public boolean isEmpty() {
 		// TODO Auto-generated method stub
-		return false;
+		return (pktsNum == 0);
 	}
 
 	@Override
@@ -117,44 +124,11 @@ public class CalQueue implements Queue {
 		this.reentrantLock.lock();
 		boolean returnValue = false;
 		try {
-			// Mapping based on queue bounds
-			int currentQueueBound;
-			for (int q = queueList.size() - 1; q >= 0; q--) {
-				currentQueueBound = (int) queueBounds.get(q);
-				if ((currentQueueBound <= rank) || q == 0) {
-					boolean result = queueList.get(q).offer(o);
-					if (!result) {
-						returnValue = false;
-						break;
-					} else {
-
-						// Per-packet queue bound adaptation
-						queueBounds.put(q, rank);
-						int cost = currentQueueBound - rank;
-						if (cost > 0) {
-							for (int w = queueList.size() - 1; w > q; w--) {
-								currentQueueBound = (int) queueBounds.get(w);
-
-								// Update queue bounds
-								if (this.stepSize.equals("cost")) {
-									queueBounds.put(w, currentQueueBound - cost);
-								} else if (this.stepSize.equals("1")) {
-									queueBounds.put(w, currentQueueBound - 1);
-								} else if (this.stepSize.equals("rank")) {
-									queueBounds.put(w, currentQueueBound - rank);
-								} else if (this.stepSize.equals("queueBound")) {
-									queueBounds.put(w, queueBounds.get(w - 1));
-								} else {
-									System.out.println("ERROR: SP-PIFO step size not supported.");
-								}
-							}
-						}
-						returnValue = true;
-						break;
-					}
-				}
+			if (this.pktsNum <= 500) {
+				this.pktQueue.add(pkt);
+				pktsNum += 1;
+				returnValue = true;
 			}
-
 		} catch (Exception e) {
 			e.printStackTrace();
 		} finally {
@@ -172,7 +146,10 @@ public class CalQueue implements Queue {
 	@Override
 	public Object poll() {
 		// TODO Auto-generated method stub
-		return null;
+		Packet pkt = this.pktQueue.get(0);
+		this.pktQueue.remove(0);
+		pktsNum -= 1;
+		return pkt;
 	}
 
 	@Override

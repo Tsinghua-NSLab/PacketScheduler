@@ -19,6 +19,7 @@ import ch.ethz.systems.netbench.ext.flowlet.IdentityFlowletIntermediaryGenerator
 import ch.ethz.systems.netbench.ext.flowlet.UniformFlowletIntermediaryGenerator;
 import ch.ethz.systems.netbench.ext.hybrid.EcmpThenValiantSwitchGenerator;
 import ch.ethz.systems.netbench.ext.valiant.RangeValiantSwitchGenerator;
+import ch.ethz.systems.netbench.xpt.CalQueue.CalQueueOutputPortGenerator;
 import ch.ethz.systems.netbench.xpt.asaf.routing.priority.PriorityFlowletIntermediaryGenerator;
 import ch.ethz.systems.netbench.xpt.newreno.newrenodctcp.NewRenoDctcpTransportLayerGenerator;
 import ch.ethz.systems.netbench.xpt.newreno.newrenotcp.NewRenoTcpTransportLayerGenerator;
@@ -171,6 +172,10 @@ class InfrastructureSelector {
 	static OutputPortGenerator selectOutputPortGenerator() {
 
 		switch (Simulator.getConfiguration().getPropertyOrFail("output_port")) {
+
+		// TODO: add my own output Port
+		case "cal_queue":
+			return new CalQueueOutputPortGenerator();
 
 		case "te_pifo":
 			return new TEOutputPortGenerator(

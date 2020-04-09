@@ -9,8 +9,10 @@ public class MainSimulation {
 		 * 
 		 * for (String arg : args) { switch(arg) { } }
 		 */
-		MainFromProperties.main(new String[] {
-				"projects/sppifo/runs/sppifo_analysis/uniform_rank_distribution/uniform_8_queues/SPPIFO.properties" });
+		String[] SPPIFO = new String[] {
+				"projects/sppifo/runs/sppifo_analysis/uniform_rank_distribution/uniform_8_queues/SPPIFO.properties" };
+		String[] CalQueueDemo = new String[] { "projects/calqueue/runs/demo/CalQueue.properties" };
+		MainFromProperties.main(CalQueueDemo);
 	}
 
 }

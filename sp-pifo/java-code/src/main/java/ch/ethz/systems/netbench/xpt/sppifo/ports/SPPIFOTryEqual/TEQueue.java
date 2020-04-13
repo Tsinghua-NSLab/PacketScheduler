@@ -20,6 +20,7 @@ import ch.ethz.systems.netbench.xpt.tcpbase.PriorityHeader;
 public class TEQueue implements Queue {
 
 	private final ArrayList<ArrayBlockingQueue> queueList;
+	private final ArrayList<Integer> queueStoreNum;
 	private final Map queueBounds;
 	private ReentrantLock reentrantLock;
 	private int ownId;

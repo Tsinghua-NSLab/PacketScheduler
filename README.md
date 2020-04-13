@@ -9,9 +9,6 @@ PS目标是,有一系列input的packets, 如何进行重组然后进行dequeue
 
 ## Project归纳
 
-工具: NetBench, NS-3/NS-2 (流量模型可以参照pFarbic等)
-方向:
-
 1. PIFO本质是order, virtual clock可以实现work-conserving, 是否有可能实现混用: 把order变到virtual-clock里, 解决PIFO的work-conserving缺陷? **本质上是Logical Clock和Real Clock之间的区别?** 需要深入阅读以下Logical Clock的知识和Lamport的TLA语言设计
 2. 层级性的调度如何解决?
 

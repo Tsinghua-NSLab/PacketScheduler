@@ -7,7 +7,7 @@ import ch.ethz.systems.netbench.core.network.Packet;
 
 public class CalQueueOutputPort extends OutputPort {
 	public CalQueueOutputPort(NetworkDevice ownNetworkDevice, NetworkDevice targetNetworkDevice, Link link) {
-		super(ownNetworkDevice, targetNetworkDevice, link, new CalQueue());
+		super(ownNetworkDevice, targetNetworkDevice, link, new CalQueue(ownNetworkDevice));
 	}
 
 	@Override

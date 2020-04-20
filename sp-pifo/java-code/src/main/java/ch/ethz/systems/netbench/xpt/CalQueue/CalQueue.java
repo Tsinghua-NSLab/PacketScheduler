@@ -3,39 +3,39 @@ package ch.ethz.systems.netbench.xpt.CalQueue;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Iterator;
+import java.util.LinkedList;
 import java.util.Queue;
-import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.locks.ReentrantLock;
 
+import ch.ethz.systems.netbench.core.log.SimulationLogger;
 import ch.ethz.systems.netbench.core.network.NetworkDevice;
 import ch.ethz.systems.netbench.core.network.Packet;
-import ch.ethz.systems.netbench.xpt.tcpbase.PriorityHeader;
+import ch.ethz.systems.netbench.xpt.tcpbase.FullExtTcpPacket;
 
-public class CalQueue implements Queue {
+public class CalQueue implements Queue<Packet> {
 
 	private final ReentrantLock reentrantLock = new ReentrantLock();
 	private int ownId;
-	private ArrayList<ArrayBlockingQueue<Packet>> calQueue;
-	private ArrayList<Packet> pktQueue;
-	private int calNum;
-	private int round;
+	private ArrayList<Queue<Packet>> calQ;
+	private Queue<Packet> lastQ;
 	private int pktsNum;
+	private int round;
+	private int SlotNum;
+	private int SlotSize;
 
-	public CalQueue() {
+	public CalQueue(NetworkDevice ownNetworkDevice) {
+		ownId = ownNetworkDevice.getIdentifier();
 		pktsNum = 0;
-		pktQueue = new ArrayList<Packet>(1000);
-	}
-
-	public CalQueue(int calendarNum, long perQueueCapacity, NetworkDevice ownNetworkDevice, String stepSize) {
-		this.ownId = ownNetworkDevice.getIdentifier();
-		ArrayBlockingQueue<Packet> fifo;
-		for (int i = 0; i < calendarNum; i++) {
-			fifo = new ArrayBlockingQueue<Packet>((int) perQueueCapacity);
-			calQueue.add(fifo);
+		SlotNum = 1000;
+		SlotSize = 10;
+		calQ = new ArrayList<Queue<Packet>>(SlotNum);
+		for (int i = 0; i < SlotNum; i++) {
+			Queue<Packet> pkts = new LinkedList<Packet>();
+			calQ.add(pkts);
 		}
-		this.calNum = calendarNum;
-		this.round = 0;
-		this.pktsNum = 0;
+		lastQ = new LinkedList<Packet>();
+		pktsNum = 0;
+		round = 0;
 	}
 
 	@Override
@@ -45,8 +45,85 @@ public class CalQueue implements Queue {
 
 	@Override
 	public boolean isEmpty() {
-		// TODO Auto-generated method stub
 		return (pktsNum == 0);
+	}
+
+	@Override
+	public boolean offer(Packet pkt) {
+		FullExtTcpPacket header = (FullExtTcpPacket) pkt;
+		int rank = (int) header.getPriority();
+		SimulationLogger.logInfo("Queue", "" + rank + "  " + ownId);
+		rank /= 1000;
+		this.reentrantLock.lock();
+		boolean returnValue = false;
+		try {
+			if (rank < SlotNum) {
+				if (calQ.get(rank).size() < SlotSize) {
+					calQ.get(rank).add(pkt);
+					pktsNum++;
+					returnValue = true;
+					// SimulationLogger.logInfo("Queue", this.ownId + " adds a pkt at " + rank);
+				} else {
+					// SimulationLogger.logInfo("Queue", this.ownId + " drops a pkt for not enough
+					// space at " + rank);
+				}
+			} else {
+				pktsNum++;
+				lastQ.add(pkt);
+				returnValue = true;
+				// SimulationLogger.logInfo("Queue", this.ownId + " drops a pkt for not enough
+				// slot with rank:" + rank);
+			}
+		} catch (Exception e) {
+			e.printStackTrace();
+		} finally {
+			this.reentrantLock.unlock();
+		}
+		return returnValue;
+	}
+
+	@Override
+	public boolean add(Packet e) {
+		// TODO Auto-generated method stub
+		return this.offer(e);
+	}
+
+	@Override
+	public Packet remove() {
+		// TODO Auto-generated method stub
+		return this.poll();
+	}
+
+	@Override
+	public Packet poll() {
+		if (pktsNum == 0) {
+			return null;
+		}
+		for (Queue<Packet> pktList : calQ) {
+			if (pktList.size() == 0) {
+				continue;
+			}
+			Packet pkt = pktList.poll();
+			pktsNum -= 1;
+			return pkt;
+		}
+		if (lastQ.size() != 0) {
+			pktsNum -= 1;
+			return lastQ.poll();
+		}
+		return null;
+	}
+
+	@Override
+	public Packet element() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Packet peek() {
+		// TODO Auto-generated method stub
+		return null;
 	}
 
 	@Override
@@ -56,7 +133,7 @@ public class CalQueue implements Queue {
 	}
 
 	@Override
-	public Iterator iterator() {
+	public Iterator<Packet> iterator() {
 		// TODO Auto-generated method stub
 		return null;
 	}
@@ -68,7 +145,7 @@ public class CalQueue implements Queue {
 	}
 
 	@Override
-	public Object[] toArray(Object[] a) {
+	public <T> T[] toArray(T[] a) {
 		// TODO Auto-generated method stub
 		return null;
 	}
@@ -80,25 +157,25 @@ public class CalQueue implements Queue {
 	}
 
 	@Override
-	public boolean containsAll(Collection c) {
+	public boolean containsAll(Collection<?> c) {
 		// TODO Auto-generated method stub
 		return false;
 	}
 
 	@Override
-	public boolean addAll(Collection c) {
+	public boolean addAll(Collection<? extends Packet> c) {
 		// TODO Auto-generated method stub
 		return false;
 	}
 
 	@Override
-	public boolean removeAll(Collection c) {
+	public boolean removeAll(Collection<?> c) {
 		// TODO Auto-generated method stub
 		return false;
 	}
 
 	@Override
-	public boolean retainAll(Collection c) {
+	public boolean retainAll(Collection<?> c) {
 		// TODO Auto-generated method stub
 		return false;
 	}
@@ -107,61 +184,6 @@ public class CalQueue implements Queue {
 	public void clear() {
 		// TODO Auto-generated method stub
 
-	}
-
-	@Override
-	public boolean add(Object e) {
-		// TODO Auto-generated method stub
-		return false;
-	}
-
-	@Override
-	public boolean offer(Object o) {
-		Packet pkt = (Packet) o;
-		PriorityHeader header = (PriorityHeader) pkt;
-		int rank = (int) header.getPriority();
-
-		this.reentrantLock.lock();
-		boolean returnValue = false;
-		try {
-			if (this.pktsNum <= 500) {
-				this.pktQueue.add(pkt);
-				pktsNum += 1;
-				returnValue = true;
-			}
-		} catch (Exception e) {
-			e.printStackTrace();
-		} finally {
-			this.reentrantLock.unlock();
-			return returnValue;
-		}
-	}
-
-	@Override
-	public Object remove() {
-		// TODO Auto-generated method stub
-		return null;
-	}
-
-	@Override
-	public Object poll() {
-		// TODO Auto-generated method stub
-		Packet pkt = this.pktQueue.get(0);
-		this.pktQueue.remove(0);
-		pktsNum -= 1;
-		return pkt;
-	}
-
-	@Override
-	public Object element() {
-		// TODO Auto-generated method stub
-		return null;
-	}
-
-	@Override
-	public Object peek() {
-		// TODO Auto-generated method stub
-		return null;
 	}
 
 }

@@ -45,6 +45,23 @@ PIFO具有极强的表达性, WFQ可以通过virtual clock来order, TB可以通�
 在Hierarchy的表达中，pkt进入到leaf-Q，leaf-Q的指针放到parent Q，然后parent Q发现出包了1个leaf-Q就调用leaf-Q。
 在Rate limit的表达中，naive的PIFO设计只能针对单个PIFO queue做限速，而不能对PIFO内的各个flow分别做限速。
 
-### A new scheduling hierarchy
+### Programmable scheduling for NICs
+
+Scheduling Operations的分工：因为在end-host上，NIC需要从memory获得pkt信息，所以metadata不如直接交给OS来完成(不然的话，NIC要从pkt descriptor通过DMA读pkt信息计算rank，然后等到dequeue的时候再用DMA来出包)，由OS通过doorbell告知NIC；这种设计是为了通过增加descriptor和doorbell size来换取占用较少的NIC SRAM。
+DAG Rate Limiting：修改PIFO使其能够实现单PIFO下多rate-limit：每个pkt在计算rank之外额外计算wall-clock time，然后正常把pkt压入PIFO中。出包的时候，如果time已过则直接出包，否则就把pkt压到shaping queue中(按照clock压入)，shaping queue中的pkt等到wall-clock的时间达到后再重新压入PIFO中。最坏情况下，per-pkt都需要2次，但这个损失下仍然能够达到100Gbps的限速。还可以采用一些额外的优化，1. 使用flag来表示目前rate limit class是否被限速了, 这样可以直接把pkt放到shaping queue中； 2. 限制traffic class中未完成(outstanding)的数据包的数量。如果Hierarchy过深的话，也会带来问题，但根据一般性分析来说10 PIFOs已经足够。
 
 ### OS/NIC interface
+
+1. Batched Doorbells：借用现代的OS/NIC常用的batch操作，16b形成1个doorbell descriptor，32个doorbell恰好1个cacheline，可以在1个PCIe write内实现
+2. Scheduling Metadata：讨论segment和packet对应的metadata的处理
+3. Discussion：对于各种NIC(ASIC、FPGA、NP、virtual)，Loom都适用；而且对于kernel bypass的DPDK、RDMA、netmap都可以兼容
+
+## TODO
+
+继续阅读以下papers:
+
+1. PSPAT(46), Software packet scheduling at hardware speed
+2. Sigcomm'07, Cloud control with distributed rate limiting
+3. netmap: a novel framework for fast packet I/O
+4. Sigcomm'12, FairCloud: Sharing the network in cloud computing
+5. NDSI'14, SENIC: Scalable NIC for end-host rate limiting

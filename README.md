@@ -28,7 +28,8 @@ Paper内各种工具的使用参见[Tools.md](./Tools.md)
 
 ### 代码
 
-./sp-pifo: 基于SPPIFO项目源码的修改
+./sp-pifo: 基于SPPIFO项目[源码](https://github.com/nsg-ethz/sp-pifo)的修改
+./Loom: [原项目](https://github.com/bestephe/loom)
 
 ## Software Packet Scheduling
 
